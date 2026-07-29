@@ -1,4 +1,5 @@
 # UBI-Sovereign：主权全民基本收入框架
+## UBI·本元
 
 📄 **白皮书（v0.1）** | DOI: [10.5281/zenodo.21641120](https://doi.org/10.5281/zenodo.21641120)
 
